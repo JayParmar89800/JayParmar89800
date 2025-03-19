@@ -40,7 +40,7 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
-  <img src="https://img.shields.io/badge/Ant-Design-319795?style=for-the-badge&logo=ant-design&logoColor=white" alt="antdesign" />
+  <img src="https://img.shields.io/badge/Ant--Design-319795?style=for-the-badge&logo=ant-design&logoColor=white" alt="antdesign" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
 </p>
